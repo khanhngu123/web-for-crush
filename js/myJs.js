@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "Xin chào Nguyễn Nhật Linh,Mình là Nguyễn Ngọc Khanh đây",
+  text1: "Xin chào Bánh Bao",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
   text3: "Cậu yêu tớ có phải không nào ._.",
   text4: "Nếu cậu ko trả lời mà thoát ra là tao bắn chết cậu đó:v",
